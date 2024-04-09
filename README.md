@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<h3 align="left">Let's Connect:</h3>
-<h3 align="left"> <img src="https://komarev.com/ghpvc/?username=adith-p&label=Profile%20views&color=0e75b6&style=flat" alt="adith-p" /> </h3>
-
 <!--
 **adith-p/adith-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
