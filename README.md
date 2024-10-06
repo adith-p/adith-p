@@ -51,7 +51,10 @@
 
 
 <hr>
+
 <p align="center">
+  
+
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanck22&show_icons=true&locale=en&layout=compact&theme=gruvbox&include_all_commits=true&count_private=true" alt="ovi" /></p>
@@ -69,6 +72,8 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=adith-p&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <br>
+  <img src="https://roadmap.sh/card/wide/64ba8e0e8a29ad56fa9fce06?variant=dark)](https://roadmap.sh" /> 
 <!-- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&width=100%&section=footer"/>
@@ -78,7 +83,6 @@
 
 
 [![Adith's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=adith-p&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 <!-- [![chandanck22's GitHub | Languages Over Time](https://stats.quine.sh/chandanck22/languages-over-time?theme=dark)](https://quine.sh) -->
 
